@@ -24,5 +24,5 @@
 <!--END_SECTION:activity-->
 
 # Blog posts :books:
-- [[PT-BR] Desvendando os conceitos do Red Hat 3scale API Management e a importância de um API Gateway na arquitetura de software moderna]([https://blog.gilvansfilho.com/cors-para-desenvolvedores-backend](https://yelkengonzales.dev/desvendando-os-conceitos-do-red-hat-3scale-api-management-e-a-importancia-de-um-api-gateway-na-arquitetura-de-software-moderna))
-- [[PT-BR] OpenShift x PaaS de Orquestração de containers]([https://blog.gilvansfilho.com/log4shell-explorando-um-servidor-java-vulneravel](https://yelkengonzales.dev/openshift-x-paas-de-orquestracao-de-containers))
+- [[PT-BR] Desvendando os conceitos do Red Hat 3scale API Management e a importância de um API Gateway na arquitetura de software moderna](https://yelkengonzales.dev/desvendando-os-conceitos-do-red-hat-3scale-api-management-e-a-importancia-de-um-api-gateway-na-arquitetura-de-software-moderna)
+- [[PT-BR] OpenShift x PaaS de Orquestração de containers](https://yelkengonzales.dev/openshift-x-paas-de-orquestracao-de-containers)
