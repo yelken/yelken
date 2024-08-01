@@ -21,7 +21,9 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-
+1. ✅ Accepted PR [#22](https://github.com/petrobras/BibMon/pull/22) in [petrobras/BibMon](https://github.com/petrobras/BibMon)
+2. 🗣 Commented on [#11](https://github.com/petrobras/BibMon/issues/11) in [petrobras/BibMon](https://github.com/petrobras/BibMon)
+3. 💪 Opened PR [#22](https://github.com/petrobras/BibMon/pull/22) in [petrobras/BibMon](https://github.com/petrobras/BibMon)
 <!--END_SECTION:activity-->
 
 # Blog posts :books:
