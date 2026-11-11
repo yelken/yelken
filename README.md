@@ -25,6 +25,11 @@ Platform engineering, middleware, observability and GitOps — from pre-sales to
 - [Red Hat Certified Specialist in Containers and Kubernetes](https://www.credly.com/badges/956f91ac-90a2-4266-8231-7dd5490246b9)
 - [Red Hat Certified Specialist in Containers](https://www.credly.com/badges/9feb167c-f70d-430a-b5f6-8ca403fa6297)
 
+**GitLab**
+
+- [GitLab Certified Fundamentals Associate](https://www.credly.com/badges/d59dfa21-9400-4498-a2b0-bde423dd44cf)
+- [GitLab Certified CI/CD Associate](https://www.credly.com/badges/69534bf8-fe08-42a8-be58-0d2388784adb)
+
 **Microsoft**
 
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/b5d1b3ce-7fec-4bcb-9076-a3c5407c6e9f)
@@ -45,9 +50,3 @@ Platform engineering, middleware, observability and GitOps — from pre-sales to
 
 - 🇧🇷 [Desvendando os conceitos do Red Hat 3scale API Management e a importância de um API Gateway na arquitetura de software moderna](https://yelkengonzales.dev/desvendando-os-conceitos-do-red-hat-3scale-api-management-e-a-importancia-de-um-api-gateway-na-arquitetura-de-software-moderna)
 - 🇧🇷 [OpenShift x PaaS de Orquestração de containers](https://yelkengonzales.dev/openshift-x-paas-de-orquestracao-de-containers)
-
-## GitHub stats
-
-<p align="center">
-  <a href="https://github.com/yelken"><img src="https://github-readme-stats.vercel.app/api?username=yelken&amp;hide=issues&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Yelken's GitHub stats" height="150"></a>
-</p>
